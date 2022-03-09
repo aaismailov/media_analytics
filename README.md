@@ -1,5 +1,7 @@
 # Frontend
 
+Link: https://mediaanalytics-aaf0a.web.app/
+
 ## Project setup
 ```
 npm install
